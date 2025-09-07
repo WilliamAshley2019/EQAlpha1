@@ -18,6 +18,7 @@ learn more about the historic types of eqs and other plugins and create concepts
 ## Screenshots
 
 ![EQ Alpha 1 Interface](screenshots/eq_alpha1_ui.png)
+
 *EQ Alpha 1’s intuitive interface with rotary knobs and shelf switches.*
 
 Install:Windows: Copy EQAlpha1.vst3 to C:\Program Files\Common Files\VST3\.
