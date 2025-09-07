@@ -2,7 +2,8 @@
 
 **EQ Alpha 1** is a VST3 equalizer plugin inspired by the legendary API 550A, designed for electronic music producers seeking musical tone shaping with a modern, user-friendly interface. Built using **JUCE 8.0.9** and the **Steinberg VST3 SDK**, this plugin emulates the proportional Q, stepped controls, and warm saturation of the iconic API 550A, perfect for electronic music production, mixing, and mastering.  It is a concept based plugin not an actual emulation of the API 550A.
 
-Developed by **William Ashley**, an electronic music artist, this plugin is a passion project to bring classic analog EQ vibes to your DAW. Visit my [Official Homepage](https://12264447666william.wixsite.com/williamashley) or [Hopp.co page](https://www.hopp.bio/william-ashley) to discover new music and learn more about my work.
+Developed by **William Ashley**, a hobbyist electronic music artist, and new plugin developer. This project aims to bring a very basic eq as I attempt to
+learn more about the historic types of eqs and other plugins and create concepts as I learn more about plugin design. Visit my [Official Homepage](https://12264447666william.wixsite.com/williamashley) or [Hopp.co page](https://www.hopp.bio/william-ashley) to discover new music and learn more about my work.
 
 ## Features
 
