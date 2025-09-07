@@ -25,7 +25,8 @@ Install:Windows: Copy EQAlpha1.vst3 to C:\Program Files\Common Files\VST3\.
 
 Load in DAW: Open your DAW (e.g., Ableton Live, FL Studio, Reaper) and scan for VST3 plugins to load EQ Alpha 1. Only Tested in FL Studio 2025
 
-UsageAdd EQ Alpha 1 to a track in your DAW.
+Usage
+Add EQ Alpha 1 to a track in your DAW.
 Use the  knobs to adjust Low Freq, Low Gain, Mid Freq, Mid Gain, High Freq, and High Gain. Currently in EQAlpha1 these are set at subbands, EQ Alpha 2intends 
 full range frequency adjustment. 
 
