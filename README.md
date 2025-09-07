@@ -1,6 +1,6 @@
 # EQ Alpha 1 - API 550A-Inspired VST3 Equalizer Plugin
 
-**EQ Alpha 1** is a VST3 equalizer plugin inspired by the legendary API 550A, designed for electronic music producers seeking musical tone shaping with a modern, user-friendly interface. Built using **JUCE 8.0.9** and the **Steinberg VST3 SDK**, this plugin emulates the proportional Q, stepped controls, and warm saturation of the iconic API 550A, perfect for electronic music production, mixing, and mastering.  It is a concept based plugin not an actual emulation of the API 550A.
+**EQ Alpha 1** is a VST3 equalizer plugin inspired by the legendary API 550A, designed for electronic music producers seeking musical tone shaping with a modern, user-friendly interface. Built using **JUCE 8.0.9** and the **Steinberg VST3 SDK**, this plugin seeks to emulate the proportional Q, stepped controls, and warm saturation of the iconic API 550A, perfect for electronic music production, mixing, and mastering.  It is a concept based plugin not an actual emulation of the API 550A. It is not a replacement for the API 550 A but it takes some of the same design principles and applies them in a JUCE packaged solution to apply those design ideas.
 
 Developed by **William Ashley**, a hobbyist electronic music artist, and new plugin developer. This project aims to bring a very basic eq as I attempt to
 learn more about the historic types of eqs and other plugins and create concepts as I learn more about plugin design. Visit my [Official Homepage](https://12264447666william.wixsite.com/williamashley) or [Hopp.co page](https://www.hopp.bio/william-ashley) to discover new music and learn more about my work.
@@ -10,9 +10,10 @@ learn more about the historic types of eqs and other plugins and create concepts
 - **3-Band EQ**: Low, Mid, and High bands with stepped frequency and gain controls, mirroring the API 550A’s discrete settings.
 - **Proportional Q**: Automatically adjusts filter bandwidth based on gain for musical, intuitive sound shaping.
 - **Shelf/Peak Switching**: Toggle Low and High bands between peak (bell) and shelf modes for versatile EQ curves.
-- **2520 Op-Amp Saturation**: Emulates the API 2520’s warm, musical distortion using `juce::dsp::WaveShaper`.
-- **Modern UI**: Sleek, rotary knob-based interface with clear labels, designed for electronic music producers.
-- **Cross-Platform**: Built with JUCE 8.0.9 for compatibility with Windows, macOS, and popular DAWs supporting VST3.
+- **2520 Op-Amp Saturation**: Copies the idea of the API 2520’s warm, musical distortion using `juce::dsp::WaveShaper`. its nota  2520 but it is an easy way of applying a JUCE concept to it.
+- **Modern UI**: Sleek, rotary knob-based interface with clear labels, designed for electronic music producers. Its a little lacking but I am not really
+- focusing on GUI deisgn at the moment just usability of the audio processing concepts.
+ 
 
 ## Screenshots
 
